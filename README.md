@@ -1,1 +1,3 @@
 # so_long
+
+so_long is a small 2D game assignment designed to test skills in graphics programming, asset management, and basic game loop mechanics using the MiniLibX library, which is a simple X-Window programming API provided by 42 school. In this project, I was tasked with creating a simple game where the player must collect items and reach the end goal while navigating through a map, which is read from a file. The project emphasizes the application of knowledge in areas such as window management, event handling, and rendering techniques. It also enforced code standard compliance and memory management. So_long is not just a programming exercise but also a creative outlet to explore the basics of game development within a structured educational environment.
